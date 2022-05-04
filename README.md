@@ -1,4 +1,4 @@
-### CSCI5408-DATABASE
+### SIMPLE DATABASE
 
 <br />
 In this project I have implemented a simple database with basic CRUD operations and transactions.
